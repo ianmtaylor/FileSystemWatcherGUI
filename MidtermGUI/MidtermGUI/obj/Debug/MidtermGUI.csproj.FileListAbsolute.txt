@@ -1,0 +1,14 @@
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\obj\Debug\MidtermGUI.csprojResolveAssemblyReference.cache
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\obj\Debug\MidtermGUI.Properties.Resources.resources
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\obj\Debug\MidtermGUI.csproj.GenerateResource.Cache
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\obj\Debug\MidtermGUI.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\bin\Debug\MidtermGUI.exe.config
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\bin\Debug\MidtermGUI.exe
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\bin\Debug\MidtermGUI.pdb
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\obj\Debug\MidtermGUI.exe
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\obj\Debug\MidtermGUI.pdb
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\obj\Debug\MidtermGUI.DatabaseForm.resources
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\obj\Debug\MidtermGUI.FrontWindow.resources
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\obj\Debug\MidtermGUI.FSWhelp.resources
+C:\Users\taylo\Desktop\Programming\C#\Solutions\MidtermGUI\MidtermGUI\obj\Debug\MidtermGUI.DatabaseControlsBox.resources
